@@ -15,5 +15,5 @@ A repo to maintain all the code/designs for FA
 * [Mechanic Login](Mechanic_Login.png)
 * [Mechanic_Booking List](Mechanic_BookingList.png)
 * [Customer_Registration](Customer_Register.png)
-* [Customer Login][Customer_Login.png]
+* [Customer Login](Customer_Login.png)
 * [Customer-Find a Mechanic](Customer_Login2.png)
