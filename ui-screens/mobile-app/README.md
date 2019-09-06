@@ -16,4 +16,4 @@ A repo to maintain all the code/designs for FA
 * [Mechanic_Booking List](Mechanic_BookingList.png)
 * [Customer_Registration](Customer_Register.png)
 * [Customer Login](Customer_Login.png)
-* [Customer-Find a Mechanic](Customer_Login2.png)
+* [Customer-Find a Mechanic](Customer_Login2.png) After customer finds mechanic, click on the mechanic to book a slot.
